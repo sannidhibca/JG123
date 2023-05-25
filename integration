@@ -1,4 +1,4 @@
-public class Hello
+public class integration
 public static void main (String[] Args)
 {
 system.out.println("Hello World");
